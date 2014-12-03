@@ -25,7 +25,9 @@ hard-working hands!
 
 ## Usage
 
-Ruby 1.9.2+, Rails 3 or 4 only. Add to your project Gemfile:
+Ruby 1.9.2+, Rails 3 or 4 only. This fork supports Ruby 2!
+
+Add to your project Gemfile:
 
 ```ruby
 group :development, :test do
