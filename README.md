@@ -31,7 +31,7 @@ Add to your project Gemfile:
 
 ```ruby
 group :development, :test do
-  gem 'jazz_hands'
+  gem 'new_jazz_hands'
 end
 ```
 

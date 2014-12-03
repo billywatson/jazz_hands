@@ -3,12 +3,12 @@
 require File.expand_path('../lib/jazz_hands/version', __FILE__)
 
 Gem::Specification.new do |gem|
-  gem.name          = 'jazz_hands'
+  gem.name          = 'new_jazz_hands'
   gem.version       = JazzHands::VERSION
   gem.author        = 'Gopal Patel'
   gem.email         = 'nixme@stillhope.com'
   gem.license       = 'MIT'
-  gem.homepage      = 'https://github.com/nixme/jazz_hands'
+  gem.homepage      = 'https://github.com/billywatson/jazz_hands'
   gem.summary       = 'Exercise those fingers. Pry-based enhancements for the default Rails console.'
   gem.description   = "Spending hours in the rails console? Spruce it up and show off those hard-working hands! jazz_hands replaces IRB with Pry, improves output through awesome_print, and has some other goodies up its sleeves."
 
